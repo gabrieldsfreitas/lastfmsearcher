@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Last Fm Searcher</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">Search for songs, artists or albums</string>
+    <string name="content_description_sort">Sort by popularity</string>
+    <string name="sort">Sort</string>
+    <string name="search_hint">song, artist or album</string>
+    <string name="total_result">%s tracks found</string>
+    <string name="most_popular">Most popular</string>
+    <string name="unpopular">Unpopular</string>
+</resources>
