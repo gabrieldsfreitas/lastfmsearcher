@@ -1,5 +1,6 @@
 package br.com.gabrieldsfreitas.lastfmsearcher
 
+import br.com.gabrieldsfreitas.lastfmsearcher.repository.TrackRepository
 import br.com.gabrieldsfreitas.lastfmsearcher.ui.viewmodel.TrackViewModel
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
@@ -8,12 +9,10 @@ import org.koin.dsl.module
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-private const val URL_BASE = "http://ws.audioscrobbler.com"
-
 val retrofitModule = module {
     single<Retrofit> {
         Retrofit.Builder()
-            .baseUrl(URL_BASE)
+            .baseUrl(Api.URL_BASE)
             .client(get())
             .addConverterFactory(GsonConverterFactory.create())
             .build()

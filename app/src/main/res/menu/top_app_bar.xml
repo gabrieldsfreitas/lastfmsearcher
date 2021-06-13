@@ -21,8 +21,8 @@
                 android:id="@+id/most_popular"
                 android:title="@string/most_popular" />
             <item
-                android:id="@+id/unpopular"
-                android:title="@string/unpopular" />
+                android:id="@+id/lest_popular"
+                android:title="@string/lest_popular" />
         </menu>
     </item>
 </menu>

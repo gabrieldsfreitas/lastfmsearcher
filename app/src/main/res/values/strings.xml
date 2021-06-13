@@ -6,6 +6,8 @@
     <string name="sort">Sort</string>
     <string name="search_hint">song, artist or album</string>
     <string name="total_result">%s tracks found</string>
+    <string name="no_result">No result found</string>
+    <string name="top_tracks_result">Top %s tracks</string>
     <string name="most_popular">Most popular</string>
-    <string name="unpopular">Unpopular</string>
+    <string name="lest_popular">Least popular</string>
 </resources>
