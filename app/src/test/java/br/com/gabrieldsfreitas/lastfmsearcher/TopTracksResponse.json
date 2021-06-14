@@ -1,0 +1,117 @@
+{
+  "tracks": {
+    "track": [
+      {
+        "name": "good 4 u",
+        "duration": "0",
+        "playcount": "5966991",
+        "listeners": "336298",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Olivia+Rodrigo/_/good+4+u",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Rodrigo",
+          "mbid": "",
+          "url": "https://www.last.fm/music/Olivia+Rodrigo"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      {
+        "name": "deja vu",
+        "duration": "0",
+        "playcount": "4869413",
+        "listeners": "307553",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Olivia+Rodrigo/_/deja+vu",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Rodrigo",
+          "mbid": "",
+          "url": "https://www.last.fm/music/Olivia+Rodrigo"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      {
+        "name": "drivers license",
+        "duration": "0",
+        "playcount": "7876669",
+        "listeners": "423521",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drivers+license",
+        "streamable": {
+          "#text": "0",
+          "fulltrack": "0"
+        },
+        "artist": {
+          "name": "Olivia Rodrigo",
+          "mbid": "",
+          "url": "https://www.last.fm/music/Olivia+Rodrigo"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+          }
+        ]
+      }
+    ],
+    "@attr": {
+      "page": "1",
+      "perPage": "3",
+      "totalPages": "9576331",
+      "total": "28728992"
+    }
+  }
+}
