@@ -71,7 +71,7 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/album_container"
+        android:id="@+id/artist_container"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/default_margin"
@@ -80,7 +80,7 @@
         app:layout_constraintTop_toBottomOf="@id/name_container">
 
         <ImageView
-            android:id="@+id/album_icon"
+            android:id="@+id/artist_icon"
             android:layout_width="@dimen/icon_size"
             android:layout_height="@dimen/icon_size"
             android:src="@drawable/ic_album"
@@ -96,7 +96,7 @@
             android:layout_marginStart="@dimen/half_margin"
             android:layout_marginEnd="@dimen/default_margin"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@id/album_icon"
+            app:layout_constraintStart_toEndOf="@id/artist_icon"
             app:layout_constraintTop_toTopOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
