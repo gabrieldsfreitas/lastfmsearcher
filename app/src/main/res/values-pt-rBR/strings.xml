@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Last Fm Searcher</string>
+    <string name="search">Buscar</string>
+    <string name="content_description_search">Pesquise músicas, artistas ou álbums</string>
+    <string name="content_description_sort">Mais populares</string>
+    <string name="sort">Ordenar</string>
+    <string name="search_hint">músicas, artistas ou álbums</string>
+    <string name="total_result">%s músicas encontradas</string>
+    <string name="no_result">Nenhum resultado encontrado</string>
+    <string name="top_tracks_result">Top %s músicas</string>
+    <string name="most_popular">Mais populares</string>
+    <string name="lest_popular">Menos populares</string>
+</resources>
